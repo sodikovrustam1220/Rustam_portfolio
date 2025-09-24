@@ -1,0 +1,3 @@
+let l;
+l = l/100;
+console.log(l);
