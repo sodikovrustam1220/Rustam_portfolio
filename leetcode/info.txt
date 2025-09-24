@@ -1,1 +1,12 @@
-leetcode problems leetcode.cxom
+найдите индекс первого вхождения в строку
+/**
+ * @param {string} haystack
+ * @param {string} needle
+ * @return {number}
+ */
+var strStr = function(haystack, needle) {
+    
+};
+let haystack = "sadbutsad";
+concole.log(haystack[0]);
+ 
