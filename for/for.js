@@ -1,4 +1,2 @@
-for (let index = 0; index < array.length; index++) {
-    const element = array[index];
-    
-}
+let nums = [3,3];
+concole.log([1])
