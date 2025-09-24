@@ -1,0 +1,6 @@
+
+
+let a;
+let s;
+s = a*a;
+console.log(s);

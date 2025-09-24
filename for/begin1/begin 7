@@ -1,0 +1,7 @@
+let r;
+let s;
+let l;
+let p =3.14;
+l = 2*p*r;
+s = p*r*r;
+console.log(l,s);

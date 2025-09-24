@@ -1,0 +1,6 @@
+let v;
+let s;
+let a;
+v = a*a*a;
+s = 6*a*a;
+console.log(v,s)

@@ -1,0 +1,7 @@
+let a;
+let b;
+let p;
+let s;
+p = 2*(a+b);
+s = a*b;
+console.log(p,s);
