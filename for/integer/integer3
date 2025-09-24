@@ -1,0 +1,3 @@
+let s;
+s= s/1024;
+console.log(s);

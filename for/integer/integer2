@@ -1,0 +1,3 @@
+let m;
+m = m/1000;
+console.log(m);
