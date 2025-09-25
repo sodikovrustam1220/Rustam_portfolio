@@ -8,5 +8,5 @@ var strStr = function(haystack, needle) {
     
 };
 let haystack = "sadbutsad";
-concole.log(haystack[0]);
+console.log(haystack[0]);
  
